@@ -3,3 +3,5 @@ class persona:
         self.id=id
         self.nombre=nombre
         self.edad = edad
+
+        print ("Hola")
